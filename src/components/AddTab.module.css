@@ -1,0 +1,23 @@
+.shoe-input{
+    margin-top:5rem;
+}
+
+.shoe-input label{
+    font-weight:bold;
+    font-size:1.5rem;
+    margin:1rem;
+
+}
+
+.shoe-input input{
+    padding:0.25rem;
+    font-size:1rem;
+}
+.shoe-input button{
+    font-size:1rem;
+    margin :1rem;
+    font-weight:bold;
+    color:white;
+    background:black;
+    padding:0.5rem;
+}
